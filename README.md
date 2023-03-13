@@ -27,6 +27,7 @@
 <br>
   
 <h3> ⚡ status update ⚡ <h3> 
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heestroy-118&layout=compact&theme=graywhite&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)<br></br>
   ![Heestroy-118 GitHub stats](https://github-readme-stats.vercel.app/api?username=Heestroy-118&show_icons=true&theme=graywhite)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heestroy-118&layout=compact&theme=graywhite&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
+ 
