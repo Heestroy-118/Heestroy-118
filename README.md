@@ -11,4 +11,7 @@
    <img src="https://img.shields.io/badge/C++-FFC5C6?style=flat-square&logo=cplusplus&logoColor=white"/>
    <img src="https://img.shields.io/badge/HTML5-FFC5C6?style=flat&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-FFC5C6?style=flat&logo=CSS3&logoColor=white"/>
+  
+  <h3> 📖 Study </h3>
     
+ <a>![Heestroy-118 GitHub stats](https://github-readme-stats.vercel.app/api?username=Heestroy-118&show_icons=true&theme=graywhite)
