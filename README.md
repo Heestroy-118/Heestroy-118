@@ -12,7 +12,6 @@
 <br>
   
  <h3> 🐥 Skill 🐥 </h3>
-   <img src="https://img.shields.io/badge/Java-FFC5C6?style=flat-square&logo=java&logoColor=white"/>
    <img src="https://img.shields.io/badge/c-FFC5C6?style=flat&logo=C&logoColor=white"/>
    <img src="https://img.shields.io/badge/C++-FFC5C6?style=flat-square&logo=cplusplus&logoColor=white"/>
    <img src="https://img.shields.io/badge/HTML5-FFC5C6?style=flat&logo=HTML5&logoColor=white"/>
